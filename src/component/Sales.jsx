@@ -2,7 +2,6 @@ import Item from "../utils/Item";
 import Title from "../utils/Title";
 
 function Sales({ endPoints }) {
-  console.log(endPoints);
   const { title, items } = endPoints;
   return (
     <div className="sales">

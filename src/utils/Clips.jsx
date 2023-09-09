@@ -1,8 +1,6 @@
 import PropTypes from "prop-types";
 
-function Clips({ imgsrc, clip }) {
-  console.log(imgsrc);
-  console.log(clip);
+function Clips({ imgsrc }) {
   return (
     <div className="clips">
       <img src={imgsrc} alt="" />
