@@ -1,8 +1,14 @@
-# React + Vite
+ <h3>NIKE-STORE</h3> 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ <h2>Build with:</h2> 
+» SASS</br>
+» React JS
 
-Currently, two official plugins are available : 
+  👉 Live Demo : [NIKE-STORE](https://nike-store-sandy-seven.vercel.app/)
+<h1>Screenshots of the Project 📸</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/)  
+<div align="center">
+ <h3>Home Page 🏡</h3> 
+</div>
+
+![Alt Text](<https://github.com/Yassine-jarir/yassinejarir/blob/c01c1435be3fa9c7189fabc86bc6f145d3ead32a/src/assets/projects/nikestore.png>)
